@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?php
 
 if ( ! defined( 'ABSPATH' ) ) exit; // Exit if accessed directly
@@ -908,3 +909,6 @@ class WP_Resume_Manager_Form_Submit_Resume extends WP_Job_Manager_Form {
 		}
 	}
 }
+=======
+
+>>>>>>> 68aa9dcec30ab45e6f7ebaa7da75e9a6fc8ecbca
