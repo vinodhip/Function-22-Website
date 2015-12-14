@@ -1,0 +1,4 @@
+Edited Files Information
+---------------------------------
+File Location: wp-content/plugins/wp-job-manager-tags/includes
+File Name: class-job-manager-job-tags-shortcodes.php
