@@ -1,0 +1,34 @@
+/*
+Theme Name: Betheme
+Theme URI: http://themes.muffingroup.com/betheme
+Description: Betheme - Premium WordPress Theme
+Tags: one-column, two-columns, left-sidebar, right-sidebar, custom-background, custom-header, custom-menu, editor-style, featured-image-header, featured-images, post-formats, responsive-layout, theme-options, translation-ready
+Author: Muffin group
+Author URI: http://muffingroup.com
+License: GNU General Public License version 3.0
+License URI: http://www.gnu.org/licenses/gpl-3.0.html
+Template: Betheme
+Version: 10.3.1
+
+All css files are placed in /css/ folder.
+If you want to add your own css code, please do it in /css/custom.css
+
+*/
+input[type=checkbox] {
+  /* All browsers except webkit*/
+  transform: scale(1.3);
+
+  /* Webkit browsers*/
+  -webkit-transform: scale(1.3);
+}
+.image_frame, .wp-caption{ border-width:0 !important; }
+.chosen-container-multi .chosen-choices{ background-image:none !important; padding: 5px !important; 
+background-color: #fff !important;
+    box-shadow: 0 0 2px 2px rgba(0, 0, 0, 0.02) inset !important;
+    color: #626262 !important; border:none !important;}
+.job_types > li {
+    list-style: outside none none !important;
+}
+.testimonials_slider_ul > li {
+    list-style: outside none none !important;
+}
