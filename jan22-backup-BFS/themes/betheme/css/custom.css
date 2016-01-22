@@ -1,0 +1,4 @@
+/* If you want to add your own CSS code, please do it in this file */
+
+.post-meta .author-date { display: none !important; }
+.post-meta .category {display: none;}
